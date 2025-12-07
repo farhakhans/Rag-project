@@ -20,7 +20,7 @@ EMBED_MODEL = "embed-english-v3.0"
 # Connect to Qdrant Cloud
 qdrant_client = QdrantClient(
     url="https://345bd403-87a1-4060-8fce-8acc703c142e.us-east4-0.gcp.cloud.qdrant.io:6333", 
-    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.bKQ_w6lyFUnNMonSbwvC5Mdx8yCsejJt2wnlDnofxds",
+    api_key="api-key",
 )
 
 # -------------------------------------
