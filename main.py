@@ -14,7 +14,7 @@ SITEMAP_URL = "https://rag-doc.vercel.app/sitemap.xml"
 
 COLLECTION_NAME = "humanoid_ai_book"
 
-cohere_client = cohere.Client("1vdxQn9kxS0RplpHOh3qxptohf5X1kuuqJ8FcCNX")
+cohere_client = cohere.Client("api-key-here")
 EMBED_MODEL = "embed-english-v3.0"
 
 # Connect to Qdrant Cloud
